@@ -16,7 +16,7 @@
 
 ---
 
-## Screenshots
+## Features
 
 <div align="center">
 
@@ -34,10 +34,7 @@ The Home Screen serves as your central command center, providing instant access 
 ▸ **Quick Access Navigation** - Seamless switching between contacts, receipts, notes, and links  
 ▸ **Comprehensive Statistics** - Real-time display of total captured data across all categories  
 ▸ **Recent Activity Feed** - Quick access to most recently scanned or edited items  
-▸ **Bottom Navigation Bar** - Clean, intuitive navigation system for efficient workflow  
-▸ **Category Overview** - Visual representation of data distribution across all sections  
-▸ **One-Tap Functionality** - All essential features accessible within a single tap  
-▸ **Responsive Design** - Optimized layout for seamless user experience
+▸ **One-Tap Functionality** - All essential features accessible within a single tap
 
 </div>
 
@@ -61,10 +58,7 @@ The Scan Screen is the core of Sensus, where powerful OCR technology meets intui
 ▸ **Document Frame Overlay** - Intelligent guide for perfectly aligned captures  
 ▸ **Multiple Input Methods** - Direct camera capture and gallery import support  
 ▸ **Instant OCR Processing** - Immediate text extraction with high accuracy  
-▸ **Visual Processing Cues** - Loading indicators and status feedback during scanning  
-▸ **Automatic Document Detection** - Smart recognition of document boundaries  
-▸ **Universal Document Support** - Scans business cards, receipts, notes, and any text document  
-▸ **Intuitive Controls** - Responsive capture button with clear visual feedback
+▸ **Universal Document Support** - Scans business cards, receipts, notes, and any text document
 
 </div>
 
@@ -85,13 +79,10 @@ The Scan Screen is the core of Sensus, where powerful OCR technology meets intui
 The Contacts screen transforms scanned business cards and documents into a beautifully organized digital contact book. With automatic extraction of phone numbers and email addresses, managing your professional network has never been easier. The elegant card-based design with initials avatars makes finding and connecting with contacts effortless.
 
 ▸ **Card-Based Layout** - Visually appealing organization of contact information  
-▸ **Initials Avatar System** - Elegant contact identification at a glance  
 ▸ **Automatic Extraction** - Smart detection of phone numbers and email addresses  
 ▸ **One-Tap Calling** - Direct dialing functionality without leaving the app  
-▸ **Quick Edit Capabilities** - Modify contact details with intuitive edit dialogs  
-▸ **Delete with Confirmation** - Safe removal with confirmation dialogs to prevent accidents  
-▸ **Powerful Search Function** - Instant contact lookup by name, phone, or email  
-▸ **Consistent Design Language** - Maintains app-wide visual cohesion and usability
+▸ **Quick View** - View contacts with intuitive dialogs  
+▸ **Powerful Search Function** - Instant contact lookup by name, phone, or email in homescreen
 
 </div>
 
@@ -115,10 +106,7 @@ The Receipts screen provides a comprehensive expense tracking solution with inte
 ▸ **Multi-Currency Support** - Pattern recognition for various currency formats  
 ▸ **Full Text Preservation** - Complete receipt text retained for detailed reference  
 ▸ **Chronological Organization** - Time-stamped entries for easy expense tracking  
-▸ **Advanced Search Capability** - Find transactions by store, amount, or date  
-▸ **Clean Card Format** - Key information highlighted with intuitive layout  
-▸ **Detailed View Modal** - Tap any receipt to view complete transaction details  
-▸ **Financial Record Management** - Invaluable for budgeting and expense tracking
+▸ **Advanced Search Capability** - Find transactions by store, amount, or date in homescreen
 
 </div>
 
@@ -139,13 +127,10 @@ The Receipts screen provides a comprehensive expense tracking solution with inte
 The Notes screen transforms captured text into an organized knowledge base with stunning timeline visualization. Whether you're capturing meeting notes, lecture content, or important reminders, everything is organized chronologically with clear title-content separation. The full-text search capability ensures you can find any note instantly, making it your perfect digital notebook.
 
 ▸ **Timeline Visualization** - Beautiful chronological display with date stamps  
-▸ **Alternating Card Layout** - Visual variety while maintaining excellent readability  
 ▸ **Title-Content Separation** - Clear organization structure for quick scanning  
-▸ **Full-Text Search** - Instant note retrieval by searching titles or content  
+▸ **Full-Text Search** - Instant note retrieval by searching titles or content in homescreen 
 ▸ **Multiple Use Cases** - Perfect for meeting notes, lectures, reminders, and thoughts  
-▸ **Easy Editing Interface** - Modify notes with simple, intuitive edit dialogs  
-▸ **Automatic Saving** - All changes immediately persisted to local database  
-▸ **Knowledge Base Organization** - Transform captured text into structured information
+▸ **Automatic Saving** - All changes immediately persisted to local storage
 
 </div>
 
@@ -165,14 +150,11 @@ The Notes screen transforms captured text into an organized knowledge base with 
 
 The Links screen serves as your personal bookmark manager for all URLs captured through document scanning. From QR codes to business cards with websites, every URL is automatically detected, validated, and organized with title-based naming. Direct browser integration means accessing any saved link is just one tap away, keeping all your important web addresses centralized and accessible.
 
-▸ **Automatic URL Detection** - Smart identification and extraction of web addresses  
+▸ **Addition URL Manually** - Can store web addresses to lookup later  
 ▸ **URL Validation System** - Ensures only properly formatted links are saved  
 ▸ **Title-Based Organization** - Intuitive naming system for easy identification  
 ▸ **Direct Browser Integration** - One-tap opening in default browser  
-▸ **Comprehensive Management** - Edit titles, delete bookmarks, and organize collections  
-▸ **Universal URL Support** - QR codes, business cards, flyers, and document URLs  
-▸ **Quick Search Functionality** - Find any saved link instantly by title or URL  
-▸ **Personal Bookmark Manager** - Centralized hub for all captured web addresses
+▸ **Comprehensive Management** - Easy to lookup and navigate
 
 </div>
 
@@ -187,7 +169,7 @@ Sensus is a powerful multi-purpose document scanning and organization applicatio
 ### Key Capabilities
 
 - **Smart Scanning** - Camera-based document capture with real-time preview
-- **Intelligent Recognition** - Automatic document type detection using ML
+- **Intelligent Recognition** - Automatic document type detection using reges patterns
 - **Auto-Organization** - Seamless categorization into structured data types
 - **Universal Search** - Cross-category search functionality
 - **Offline-First Architecture** - Complete functionality without internet connectivity
@@ -195,47 +177,6 @@ Sensus is a powerful multi-purpose document scanning and organization applicatio
 
 ---
 
-## Features
-
-### Document Scanning
-- Real-time camera preview with document frame overlay
-- Gallery import and direct camera capture support
-- Live OCR processing powered by Google ML Kit
-- Automatic document classification
-
-### Data Categorization
-
-#### Contacts Management
-- Automatic extraction of phone numbers and email addresses
-- One-tap calling functionality
-- Card-based UI with contact initials
-- Edit and delete operations with confirmation dialogs
-
-#### Receipt Archive
-- Automatic store name and amount extraction
-- Full receipt text preservation
-- Chronological organization
-- Searchable receipt database
-
-#### Notes Collection
-- Title and content organization
-- Timeline visualization with date stamps
-- Alternating card layout
-- Full-text search capability
-
-#### Link Bookmarks
-- URL detection and validation
-- Title-based organization
-- Direct browser integration
-- Link management interface
-
-### Global Search
-- Cross-category search across all data types
-- Color-coded results by category
-- Real-time filtering
-- Detailed result preview modals
-
----
 
 ## Installation
 
