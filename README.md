@@ -30,7 +30,7 @@
 
 ## About Sensus
 
-Sensus is a powerful multi-purpose document scanning and organization application built with Flutter. Using advanced OCR (Optical Character Recognition) technology, Sensus automatically extracts text from images and intelligently categorizes them into contacts, receipts, notes, and links—streamlining document management workflows.
+Sensus is a powerful multi-purpose document scanning and organization application built with Flutter. Using advanced OCR (Optical Character Recognition) technology, Sensus automatically extracts text from images and intelligently categorizes them into contacts, receipts, notes, and links-streamlining document management workflows.
 
 ### Key Capabilities
 
