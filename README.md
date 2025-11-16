@@ -190,7 +190,7 @@ Sensus is a powerful multi-purpose document scanning and organization applicatio
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/sensus.git
+   git clone https://github.com/Anurag-Mohan/Sensus.git
    cd sensus
    ```
 
